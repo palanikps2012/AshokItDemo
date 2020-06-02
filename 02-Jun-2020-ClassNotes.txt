@@ -1,0 +1,90 @@
+02-Jun-2020
+-----------
+
+Version Control Tools
+----------------------
+
+-> In Realtime, Project Development will happen with Multiple Developers
+
+-> All developers may not work from same location
+
+-> Every developer will work on different task
+
+Q) How to integrate all the developers code to run our project ?
+----------------------------------------------------------------
+
+
+Q) How to track who created, who modified, when modified, why modified and what modified in source code ?
+----------------------------------------------------------------------------------------
+
+The answer for above two questions is Version Control Tool
+
+
+-> Version Control Tool provides storage where we can store our source code
+
+-> All the developers can keep their source code in version control tool
+
+-> Version Control Tool provides Monitored access
+   (This tool will track changes happening in our source code)
+
+	    		- Who created file
+			- When created
+			- Why Created
+			- Who modified
+			- When Modified
+			- What Modified
+			- Why Modified
+
+-> If we don't use Version Control Tool then Project Development will become Night Mare
+
+-> In Realtime Every Project will use Version Control Tool
+
+
+There are several Version control softwares are available in market
+------------------------------------------------------------------
+1) CVS
+
+2) Clease Case
+
+3) SVN
+
+4) GIT HUB (Microsoft)
+
+5) Bit Bucket (Atlasian)
+
+GIT HUB
+-------
+-> GIT HUB is a cloud platform where we can host our software projects
+
+-> GIT HUB uses GIT as a version control
+
+-> To use GIT HUB we need to create account in GIT HUB
+
+	(www.github.com)
+
+-> Once account is created, we can create multiple repositories in one account
+
+-> For Every project one repository will be created in GIT HUB
+
+-> Repositories can be divided into 2 types
+		
+			1) public repository
+
+			2) private repository
+
+-> public repository means everybody can see but we choose who can commit
+
+-> private repository means who will choose who see and who can commit
+
+
+
+
+
+
+
+
+
+
+
+
+
